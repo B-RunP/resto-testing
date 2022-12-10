@@ -1,0 +1,36 @@
+{
+    "id": "movie-catalogue-lite-pwa-1",
+    "start_url": "./index.html",
+    "name": "Movie Catalogue Lite",
+    "short_name": "Movie Lite",
+    "description": "Free Catalogue Movie for you",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#D84315",
+    "icons": [
+      {
+        "src": "/icons/icon-250x250.png",
+        "sizes": "250x250",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-313x313.png",
+        "sizes": "313x313",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-375x375.png",
+        "sizes": "375x375",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-438x438.png",
+        "sizes": "438x438",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }
